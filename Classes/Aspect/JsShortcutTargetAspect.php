@@ -4,6 +4,7 @@ namespace VIVOMEDIA\JsShortcutTarget\Aspect;
 
 use Neos\ContentRepository\Domain\Model\Node;
 use Neos\Flow\Aop\JoinPointInterface;
+use Neos\Flow\Annotations as Flow;
 
 /**
  * @Flow\Scope("singleton")
