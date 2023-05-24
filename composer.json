@@ -4,7 +4,7 @@
     "description": "Allows setting javascript as target url in Shortcut Nodetypes",
     "license": "MIT",
     "require": {
-        "neos/neos": "~7.0"
+        "neos/neos": "~7.0 || ~8.0"
     },
     "suggest": {
     },
