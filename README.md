@@ -1,4 +1,4 @@
-# Neos CMS FontAwesome Pugin
+# Neos CMS JS Shortcut Target
 
 [![Latest Stable Version](https://poser.pugx.org/vivomedia/neos-js-shortcut-target/v/stable)](https://packagist.org/packages/vivomedia/neos-js-shortcut-target)
 [![Total Downloads](https://poser.pugx.org/vivomedia/neos-js-shortcut-target/downloads)](https://packagist.org/packages/vivomedia/neos-js-shortcut-target)
